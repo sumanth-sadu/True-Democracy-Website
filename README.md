@@ -23,3 +23,30 @@ By this one can make a proper decision whether present leaders are accountable t
 Staya Lokatantra is Made to be Responsive, create true leaders, and help the nation move towards development. 
 
 One can view the activeness of an government official towards the people.
+
+# For the project group
+Pull the folder using Git Bash
+
+[command] git pull 'url'
+
+Edit or do your applications in the downloaded folder
+
+Do a pull request
+
+Use Comments so that you wont mess up the others work
+
+To learn about git refer https://github.com/firstcontributions/first-contributions
+
+# Commands for Git Bash
+
+go to the directory you want to push/pull
+
+git init
+
+git pull 'url'
+
+git add .
+
+git commit -m "name of your commit"
+
+git push 'url' master
